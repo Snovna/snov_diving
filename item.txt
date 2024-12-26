@@ -1,0 +1,7 @@
+	['diving_gear'] = {
+		label = 'Taucherausrüstung',
+		weight = 750,
+		durability = 100,
+		stack = false,
+		client = { event = 'snov_diving:use' }
+	},
